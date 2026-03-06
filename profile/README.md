@@ -1,4 +1,4 @@
-![alt text](images/volunteer-connector-logo.png)
+![alt text](./volunteer-connector-logo.svg)
 
 Volunteer Connector is a platform that helps people find meaningful volunteer opportunities in their communities. We partner with Volunteer Centres across Canada to make it easy for nonprofits to find the help they need and for volunteers to discover causes they care about.
 
